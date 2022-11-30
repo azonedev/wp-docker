@@ -1,7 +1,5 @@
 !wordpress
 wordpress/*
-!nginx
-nginx/*
 !logs
 logs/*
 !db-data
