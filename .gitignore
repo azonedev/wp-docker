@@ -1,4 +1,9 @@
-db-data/*
-logs/*
-nginx/*
+!wordpress
 wordpress/*
+!nginx
+nginx/*
+!logs
+logs/*
+!db-data
+!db-data/.gitkeep
+db-data/*
